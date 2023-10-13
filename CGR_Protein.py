@@ -129,7 +129,7 @@ def mk_cgr(seq):
 			sys.stderr.write("Bad Nucleotide: " + s + " \n")
             
 	return cgr
-def cgr_jisu(seq,cgr,pks,k,z,pk,A): 
+def cgr_count(seq,cgr,pks,k,z,pk,A): 
     n=0
     for i in range(len(seq) - k + 1):
             kmer = seq[i:i+k]
