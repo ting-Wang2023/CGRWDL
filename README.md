@@ -12,4 +12,4 @@ The output is the mega format, and can be imported directly in to MEGA X to obta
 # Example
 python cgrwdl_main.py protein --files example.fasta --k 3
 # Citation
-Ting Wang, Zuoguo Yu, Jinyan Li, CGRWDL : Alignment-free phylogeny reconstruction method for viruses based on chaos game representation weighted by dynamical language model
+Ting Wang, Zuguo Yu, Jinyan Li, CGRWDL : Alignment-free phylogeny reconstruction method for viruses based on chaos game representation weighted by dynamical language model
